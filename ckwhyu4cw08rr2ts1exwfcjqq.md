@@ -26,7 +26,7 @@ https://github.com/sudheerj/javascript-interview-questions
 ]
 
 
-4. JavaScript Algorithms has JavaScript-based examples of many popular algorithms and data structures explained.
+# 4. JavaScript Algorithms has JavaScript-based examples of many popular algorithms and data structures explained.
 
 https://github.com/trekhleb/javascript-algorithms
 
