@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=4UZrsTqkcW4
 ### C. React JS Crash Course 2021 by Traversy Media
 https://youtube.com/watch?v=w7ejDZ8SWv8
 
-%[https://www.youtube.com/watch?v=4UZrsTqkcW4]
+%[https://youtube.com/watch?v=w7ejDZ8SWv8]
 
 
 ### D. The Beginner's Guide to React by Kent C Dodds
