@@ -1,6 +1,9 @@
 ---
 title: ""Affordable Linux-Powered Laptop: Kubuntu Focus and Carbon Systems Launch the Focus Ir14 for Developers, Creators, and Engineers""
 seoTitle: ""Kubuntu Focus and Carbon Systems Launch the Focus Ir14: An Affordable"
+seoDescription: "Sure, here's an updated version of the text that is SEO-friendly:
+
+Kubuntu Focus and Carbon Systems have joined forces to introduce the Focus Ir14, an affor"
 datePublished: Sat May 06 2023 05:38:57 GMT+0000 (Coordinated Universal Time)
 cuid: clhbk1iso000609jocrydgr2u
 slug: affordable-linux-powered-laptop-kubuntu-focus-and-carbon-systems-launch-the-focus-ir14-for-developers-creators-and-engineers
